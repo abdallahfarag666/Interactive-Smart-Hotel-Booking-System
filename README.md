@@ -1,6 +1,10 @@
 # Interactive-Smart-Hotel-Booking-System
 
 
+Video Explanation :
+https://drive.google.com/file/d/1Js8FYMSv0KazYXWtNv30TxaBVG_zHf_n/view?usp=sharing
+
+
 # 🏨 Smart Hotel Booking System (Terminal-Based)
 
 ## 📌 Project Description
@@ -68,6 +72,3 @@ Open terminal in the project folder and run:
 ```bash
 python main.py
 
-
-
-https://drive.google.com/file/d/1Js8FYMSv0KazYXWtNv30TxaBVG_zHf_n/view?usp=sharing
